@@ -1,6 +1,5 @@
 # Web-Scraping
 
-This PowerShell script:
 
 
 This PowerShell script performs basic web scraping and HTML parsing.
